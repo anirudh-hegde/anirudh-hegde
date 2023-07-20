@@ -36,4 +36,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anianonymous&" alt="anianonymous" /></p>
 
-![Anirudh's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anianonymous&theme=blue-green)
