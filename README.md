@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anianonymous&show_icons=true&locale=en" alt="anianonymous" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anianonymous&" alt="anianonymous" /></p>
+
+![Anirudh's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anianonymous&theme=blue-green)
