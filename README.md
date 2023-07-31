@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **hegdeanirudh2003@gmail.com**
 
-- ⚡ Fun fact **I think I am Ambitious**
+- ⚡ Fun fact **I think I am Problem Solver**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
