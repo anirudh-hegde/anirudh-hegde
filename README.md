@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Core Java, Kotlin**
 
-- 💬 Ask me about **Python, Basic Java**
+- 💬 Ask me about **Python, Basic Java, Kotlin**
 
 - 📫 How to reach me **hegdeanirudh2003@gmail.com**
 
