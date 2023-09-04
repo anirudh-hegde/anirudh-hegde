@@ -13,7 +13,7 @@
 - 📫 How to reach me **hegdeanirudh2003@gmail.com**
 
 - ⚡ Fun fact **I think I am higly self-conscious**
-//token: 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
+<!-- <h1>token: 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</h1> -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anirudh-hegde-712490210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anirudh-hegde-712490210" height="30" width="40" /></a>
