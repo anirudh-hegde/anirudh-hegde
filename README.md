@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anirudh</h1>
-<h3 align="center">Developer from India</h3>
+<!--<h1 align="center">Hi 👋, I'm Anirudh</h1>-->
+<!--<h3 align="center">Developer from India</h3>-->
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anianonymous&show_icons=true&locale=en" alt="anianonymous" />
