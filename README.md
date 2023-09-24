@@ -1,5 +1,5 @@
 ### [Connect with me 💬](https://kunalkushwaha.com) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Anianonymous.Anianonymous)
 
 <!--<h1 align="center">Hi 👋, I'm Anirudh</h1>-->
 <!--<h3 align="center">Developer from India</h3>-->
