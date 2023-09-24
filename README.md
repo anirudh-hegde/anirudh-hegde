@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">Developer from India</h3>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anianonymous&show_icons=true&locale=en" alt="anianonymous" />
+</p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anianonymous&" alt="anianonymous" />
+</p>
 <!--<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=anianonymous&label=Profile%20views&color=0e75b6&style=flat" alt="anianonymous" /> </p>
@@ -14,7 +21,7 @@
 
 //- ⚡ Fun fact **I think I am higly self-conscious**
 <!-- <h1>token: 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</h1> -->
-<h3 align="center">Connect with me:</h3>
+<!--<h3 align="center">Connect with me:</h3>
 <!-- <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anirudh-hegde-712490210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anirudh-hegde-712490210" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19091732" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19091732" height="30" width="40" /></a>
@@ -41,7 +48,7 @@
 
 <!--<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=anianonymous&show_icons=true&locale=en&layout=compact" alt="anianonymous" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anianonymous&show_icons=true&locale=en" alt="anianonymous" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anianonymous&show_icons=true&locale=en" alt="anianonymous" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anianonymous&" alt="anianonymous" /></p>
 
