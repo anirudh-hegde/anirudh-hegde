@@ -1,9 +1,12 @@
+### [Connect with me 💬](https://kunalkushwaha.com) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
+
 <!--<h1 align="center">Hi 👋, I'm Anirudh</h1>-->
 <!--<h3 align="center">Developer from India</h3>-->
 
 <!--<h3 align="center">Connect with me:</h3>-->
-<h3 align="center"><a href="https://bio.link/anirudhh" target="_blank">Connect with me 💬</a></h3>
-<p align="center">
+<!--<h3 align="center"><a href="https://bio.link/anirudhh" target="_blank">Connect with me 💬</a></h3>
+<!--<p align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anianonymous&show_icons=true&locale=en" alt="anianonymous" />
 </p>
 <p align="center">
@@ -50,7 +53,7 @@
 
 <!--<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=anianonymous&show_icons=true&locale=en&layout=compact" alt="anianonymous" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anianonymous&show_icons=true&locale=en" alt="anianonymous" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anianonymous&show_icons=true&locale=en" alt="anianonymous" /></p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anianonymous&" alt="anianonymous" /></p>
 
