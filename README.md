@@ -1,5 +1,5 @@
 ### [Connect with me 💬](https://bio.link/anirudhh) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Anianonymous.Anianonymous)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=anirudh-hegde.anirudh-hegde)
 
 
 <!--<h1 align="center">Hi 👋, I'm Anirudh</h1>-->
