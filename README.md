@@ -1,4 +1,4 @@
-### [Connect with me 💬](https://bio.link/anirudhh) 
+### [Connect with me 💬](https://anirudh-hegde.github.io/ani.portfolio/)
 <!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=anirudh-hegde.anirudh-hegde)
 
 
