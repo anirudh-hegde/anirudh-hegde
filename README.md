@@ -10,7 +10,7 @@
     alt="anirudh91017141" /></a> 
 </p>
 
-- 🌱 I’m currently learning **Kubernetes, Docker Swarm, GCP**
+<!--- 🌱 I’m currently learning **Kubernetes, Docker Swarm, GCP**!-->
 
 - 📫 How to reach me **hegdeanirudh2003@gmail.com**
 
