@@ -1,7 +1,6 @@
 <!--### [Connect with me 💬](https://anirudh-hegde.github.io/ani.portfolio/)!-->
 <h1>Hi there👋</h1>
-<h4>I'm Anirudh, 22 y/o Machine Learning Engineer 
-skilled in Docker and deploying applications on AWS</h4>
+<h4>I'm Anirudh, DevOps Engineer</h4>
 
 <!--- <img src="https://komarev.com/ghpvc/?username=anirudh-hegde&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh-hegde" /> </p>-->
 
